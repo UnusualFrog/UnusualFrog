@@ -13,6 +13,9 @@
 **Voltorb Flip** - A recreation of the classic Pokemon mini-game using the Unity Engine and C#
 https://unusualfrog.itch.io/volto
 
+**MinesweeperJS** - A recreation of Minesweeper with a retro feel that runs with pure javascript in browser
+[https://unusualfrog.itch.io/volto](https://github.com/UnusualFrog/MinesweeperJS)
+
 ---
 ### Proficient With:
 
