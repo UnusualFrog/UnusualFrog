@@ -1,4 +1,4 @@
-<h1 align="center">Hey There, I'm Noah Forward 🐸</h1>
+<h1 align="center">Hey There, I'm Julia Forward 🐸</h1>
 <h3 align="center">I'm a passionate software developer with a love of game development</h3>
 
 ---
