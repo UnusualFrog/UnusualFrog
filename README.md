@@ -4,16 +4,30 @@
 ---
 
 ### Find Me On These Sites:
-**Codewars** - https://www.codewars.com/users/Unusual_Frog
+**Personal Website** - https://swamp-paradise-website.vercel.app/blog
 
-**Linkedin** - https://www.linkedin.com/in/noah-forward-b82321251/
+**Linkedin** - https://www.linkedin.com/in/julia-forward-b82321251/
+
+**Codewars** - https://www.codewars.com/users/Unusual_Frog
 
 ---
 ### Check out some of my projects:
+
 **Voltorb Flip** - A recreation of the classic Pokemon mini-game using the Unity Engine and C#
-Play Online: https://unusualfrog.itch.io/volto 
+
+**Play Online** - https://unusualfrog.itch.io/volto 
+
+**Repository** https://github.com/UnusualFrog/VoltorbFlip-Unity
+
+---
+
+**Pokemon Type Challenge** - An original puzzle game which challenges players to find and match the most effective type matchups as fast as possible. Built using Godot and GDscript.
+
+Play Online: https://unusualfrog.itch.io/pokepuzzle
 
 Repository: https://github.com/UnusualFrog/VoltorbFlip-Unity
+
+---
 
 **MinesweeperJS** - A recreation of Minesweeper with a retro feel that runs with pure javascript in browser
 [https://unusualfrog.itch.io/volto](https://github.com/UnusualFrog/MinesweeperJS)
