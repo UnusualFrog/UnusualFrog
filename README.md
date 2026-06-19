@@ -4,7 +4,6 @@
 ---
 
 ### Find Me On These Sites:
-**Personal Website** - https://swamp-paradise-website.vercel.app/blog
 
 **Linkedin** - https://www.linkedin.com/in/julia-forward-b82321251/
 
