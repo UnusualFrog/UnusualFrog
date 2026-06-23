@@ -13,7 +13,7 @@
 ### Check out some of my projects:
 
 
-**AI-Matching** - A NextJS platform matching employers with applicants through the power of LLMS
+**AI-Matching** - A NextJS platform matching employers with applicants through the power of LLMs
 
 **Access Online** - https://capstone-ai-matching.vercel.app/ 
 
