@@ -12,6 +12,22 @@
 ---
 ### Check out some of my projects:
 
+
+**AI-Matching** - A NextJS platform matching employers with applicants through the power of LLMS
+
+**Access Online** - https://capstone-ai-matching.vercel.app/ 
+
+**Repository** - https://github.com/Dylan-M-afk/capstone-ai-matching
+
+---
+
+
+**Minecraft Diamond Detection with YOLOv8** - A computer vision system built on YOLOv8, fine tuned to the detection and segmentation of diamonds in screenshots of Minecraft gameplay
+
+**Repository** - https://github.com/UnusualFrog/Minecraft-Diamond-Ore-Detection-YOLOv8-OBB
+
+---
+
 **Voltorb Flip** - A recreation of the classic Pokemon mini-game using the Unity Engine and C#
 
 **Play Online** - https://unusualfrog.itch.io/volto 
