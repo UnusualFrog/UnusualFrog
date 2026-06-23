@@ -43,11 +43,6 @@ Play Online: https://unusualfrog.itch.io/pokepuzzle
 Repository: https://github.com/UnusualFrog/VoltorbFlip-Unity
 
 ---
-
-**MinesweeperJS** - A recreation of Minesweeper with a retro feel that runs with pure javascript in browser
-[https://unusualfrog.itch.io/volto](https://github.com/UnusualFrog/MinesweeperJS)
-
----
 ### Proficient With:
 
 <div align="center">
